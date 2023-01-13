@@ -1,0 +1,111 @@
+{
+  "traits": [
+    {
+      "id": 1,
+      "title": "Analytical",
+      "description": "It comes easy for me to see connections and I find it easy to stay calm in fast-moving, stressful environments."
+    },
+    {
+      "id": 2,
+      "title": "Driven",
+      "description": " I find motivation in exceeding the expectations others have on me and I constantly search for methods and habits that improve my professional and interpersonal skills."
+    },
+    {
+      "id": 3,
+      "title": "Collaborative",
+      "description": "I consider myself to be good at considering the opinion of others before making decision and I strongly believe in the advantages of teamwork."
+    },
+    {
+      "id": 4,
+      "title": "Accuracy",
+      "description": "It is important to me that my work is at its highest level."
+    },
+    {
+      "id": 5,
+      "title": "Organised",
+      "description": "Good at planning and structure, handling different tasks of different aspects in stressful environments."
+    },
+    {
+      "id": 6,
+      "title": "Educational",
+      "description": "Easy going in many areas and I do see the importance of clearness and can easily adapt my way of working style."
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Javacript"
+    },
+    {
+      "id": 2,
+      "title": "React"
+    },
+    {
+      "id": 3,
+      "title": "React Native"
+    },
+    {
+      "id": 4,
+      "title": "CSS"
+    },
+    {
+      "id": 5,
+      "title": "HTML"
+    },
+    {
+      "id": 6,
+      "title": "Express"
+    },
+    {
+      "id": 7,
+      "title": "Node.js"
+    },
+    {
+      "id": 8,
+      "title": "RESTful API"
+    },
+    {
+      "id": 9,
+      "title": "Postman"
+    },
+    {
+      "id": 10,
+      "title": "Git"
+    },
+    {
+      "id": 11,
+      "title": "Github"
+    },
+    {
+      "id": 12,
+      "title": "Bitbucket"
+    },
+    {
+      "id": 13,
+      "title": "MongoDB"
+    },
+    {
+      "id": 14,
+      "title": "Jenkins"
+    },
+    {
+      "id": 15,
+      "title": "AWS"
+    },
+    {
+      "id": 16,
+      "title": "Docker"
+    },
+    {
+      "id": 17,
+      "title": "Jira"
+    },
+    {
+      "id": 18,
+      "title": "Google Suite"
+    },  {
+      "id": 19,
+      "title": "Python"
+    }
+  ]
+}

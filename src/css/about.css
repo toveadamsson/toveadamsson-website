@@ -1,0 +1,71 @@
+.about-section {
+  margin-top: 7.5vh;
+  background-color: bisque;
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+/* .trait,
+.tech {
+  width: 40%;
+  height:fit-content;
+  padding:10px;
+} */
+.text{
+padding:1rem;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.trait{
+  background-color: blue;
+}
+
+.skills {
+  /* border: 1px solid red; */
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 30px; */
+  display: flex;
+    flex-direction: column;
+
+}
+.tech {
+    font-weight: bold;
+    background-color: green;
+    display: grid;
+    grid-template-columns: repeat(6,auto);
+    padding: 1rem;
+    text-align: center;
+}
+/* 
+.tech ul, .trait ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding:10px;
+}
+.trait ul{
+  list-style: none;
+} */
+@media screen and (max-width: 1024px) {
+  .intro {
+    flex-direction: column;
+    height: 80%;
+  }
+  img {
+    width: 60vw;
+  }
+  .about-me-text {
+    overflow: unset;
+    border: none;
+  }
+  .about-me-text p {
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid green; */
+    overflow: unset;
+  }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "title": "Javacript"
+      },
+      {
+        "id": 2,
+        "title": "React"
+      },
+      {
+        "id": 3,
+        "title": "React Native"
+      },
+      {
+        "id": 4,
+        "title": "CSS"
+      },
+      {
+        "id": 5,
+        "title": "HTML"
+      },
+      {
+        "id": 6,
+        "title": "Express"
+      },
+      {
+        "id": 7,
+        "title": "Node.js"
+      },
+      {
+        "id": 8,
+        "title": "RESTful API"
+      },
+      {
+        "id": 9,
+        "title": "Postman"
+      },
+      {
+        "id": 10,
+        "title": "Git"
+      },
+      {
+        "id": 11,
+        "title": "Github"
+      },
+      {
+        "id": 12,
+        "title": "Bitbucket"
+      },{
+        "id": 13,
+        "title": "MongoDB"
+      },
+      {
+        "id": 14,
+        "title": "Jenkins"
+      },
+      {
+        "id": 15,
+        "title": "AWS"
+      },
+      {
+        "id": 16,
+        "title": "Docker"
+      },
+      {
+        "id": 17,
+        "title": "Jira"
+      },
+      {
+        "id": 18,
+        "title": "Google Suite"
+      }
+    ]
+  }

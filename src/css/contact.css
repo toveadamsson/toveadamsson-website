@@ -1,0 +1,44 @@
+.main-container {
+  height: 100vh;
+  background-color: #f1f8f6;
+  box-sizing: border-box;
+}
+.hello {
+  padding-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hello-d {
+  background-color: #d8e8e3;
+  width: 300px;
+  text-align: center;
+}
+.hello div p {
+  background-color: #d8e8e3;
+  border-radius: 3px;
+  padding: 20px;
+  font-size: 1.2rem;
+}
+.contact-form {
+  text-align: center;
+  max-width: 300px;
+  width: 100%;
+  margin: 20px auto;
+}
+
+
+.ui.button {
+  background-color: white;
+  color: black;
+  padding: 15px;
+  font-size: 1.2rem;
+}
+.ui.button:hover {
+  background-color: #d8e8e3;
+}
+.ui.form .required.field > label:after {
+  color: white;
+}
+
